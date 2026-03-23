@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfdb179a-7d76-4b21-8f2b-cafed30cd863" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3A4M6zeYlpXH8k13e39pxhIAEOQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MailMateApplication.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.email.writer.app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MailMateApplication" type="Application" factoryName="Application">
+      <envs>
+        <env name="GEMINI_KEY" value="AIzaSyBKCJXKRXmP1YADSbAt74hOgHZBSKtdEeY" />
+        <env name="GEMINI_URL" value="https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.email.writer.MailMateApplication" />
+      <module name="mail-mate" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfdb179a-7d76-4b21-8f2b-cafed30cd863" name="Changes" comment="" />
+      <created>1771847222471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771847222471</updated>
+    </task>
+    <servers />
+  </component>
+</project>
